@@ -5,4 +5,5 @@ Hi! I'm Kate. I'm a sophomore at Columbia University's School of Engineering.
 
 ### Some projects
 Columbia University & Barnard College's DivHacks (Diversity Hacks) annual hackathon, 2023. Worked with others on [website.](https://linktr.ee/columbiadivhacks) (the repo is private, apologies!)
+
 Columbia University & Barnard College's DivHacks (Diversity Hacks) annual hackathon, 2022. Worked with others on a [category-winning hack.](https://devpost.com/software/environmentality)
