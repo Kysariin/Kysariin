@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm Kate. I'm a senior at Columbia University's School of Engineering.
+Hi! I'm Kate. I'm a senior at Columbia University's School of Engineering. Here's my (work-in-progress, created in 2026) [portfolio](https://kysariin.github.io).
 
 <img src="https://media.tenor.com/qWFyD9bjsyQAAAAj/reuniclus.gif" alt="Reuniclus" width="300"/>
 
