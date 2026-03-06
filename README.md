@@ -1,7 +1,8 @@
-# QUICKLINK: [WORKING PORTFOLIO](https://kysariin.github.io)
+# [WORKING PORTFOLIO](https://kysariin.github.io)
 (note: begun in 2026 for academic purposes)
 ## About me
 Hi! I'm Kate. I'm a senior at Columbia University's School of Engineering. 
+
 <img src="https://media.tenor.com/qWFyD9bjsyQAAAAj/reuniclus.gif" alt="Reuniclus" width="300"/>
 
 ### Some projects
