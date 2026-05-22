@@ -1,7 +1,7 @@
 # [WORKING PORTFOLIO](https://kysariin.github.io)
 (note: begun in 2026 for academic purposes)
 ## About me
-Hi! I'm Kate. I'm a senior at Columbia University's School of Engineering. 
+Hi! I'm Kate. I just graduated with a BS in Computer Science from Columbia University's School of Engineering. 
 
 <img src="https://media.tenor.com/qWFyD9bjsyQAAAAj/reuniclus.gif" alt="Reuniclus" width="300"/>
 <sub>this is Reuniclus, one of my favorite Pokémon!</sub>
