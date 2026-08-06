@@ -6,7 +6,4 @@ Hi! I'm Kate. I just graduated with a BS in Computer Science from Columbia Unive
 <img src="https://media.tenor.com/qWFyD9bjsyQAAAAj/reuniclus.gif" alt="Reuniclus" width="300"/>
 <sub>this is Reuniclus, one of my favorite Pokémon!</sub>
 
-### Some projects
-Columbia University & Barnard College's DivHacks (Diversity Hacks) annual hackathon, 2023. Worked with the hackathon's dev committee on [website.](https://linktr.ee/columbiadivhacks) (the repo is private, apologies!)
-
-Columbia University & Barnard College's DivHacks (Diversity Hacks) annual hackathon, 2022. Worked with others on a [category-winning hack.](https://devpost.com/software/environmentality)
+I'm currently working as a fullstack developer, but in my free time I love video games, going to concerts, and doing the occasional side project. 
